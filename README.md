@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi 👋 I'm Paulo Oliveira
 
-<!--
-**PauloMiguelFreitasOliveira/PauloMiguelFreitasOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Consultant at Devoteam
 
-Here are some ideas to get you started:
+Python • Databricks • Azure • GCP • AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current interests
+
+• Generative AI
+• RAG
+• AI Agents
+• Enterprise AI
+• Data Engineering
+
+Featured Projects
+
+LLM Evaluation Framework
+
+Smart Home Management
+
+Product Catalog
+
+Certifications
+
+AZ-900
+
+AI-900 (In Progress)
